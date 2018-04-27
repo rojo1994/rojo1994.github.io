@@ -1,6 +1,6 @@
 Index
 
-<a href="Practica1bootstrap.html"> Practica 1 bootstrap </a>
+<a href="Practica1bootstrap.html.html"> Practica 1 bootstrap </a>
 
 <a href="Practica2bootstrap.html"> Practica 2 bootstrap </a>
 
