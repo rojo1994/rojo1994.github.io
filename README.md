@@ -14,4 +14,4 @@ Index
 
 <a href="Practica7bootstrap.html"> Practica 7 bootstrap </a>
 
-<a href="PracticasModales.html"> Practica 8 bootstrap </a>
+<a href="Practica8bootstrap.html"> Practica 8 bootstrap </a>
